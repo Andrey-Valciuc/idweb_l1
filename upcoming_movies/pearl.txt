@@ -1,1 +1,5 @@
-another upcoming movie (modified) confa
+<<<<<<< HEAD
+another upcoming movie (modified)conf
+=======
+another upcoming movie (modified)conf
+>>>>>>> upcoming_movies
